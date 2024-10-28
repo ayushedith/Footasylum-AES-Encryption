@@ -6,7 +6,7 @@ pip install cryptography
 pip install cloudscraper
 ```
 
-Credit to VeNoMouS for [cloudscraper](https://github.com/VeNoMouS/cloudscraper)
+Credit to ayushedith for [cloudscraper](https://github.com/ayushedith/cloudscraper)
 
 
 > This is an AES Footasylum encryption that is written in Java originally in the App Source code but is translated to Python as it was the language i was workign with.
