@@ -20,7 +20,7 @@ session = cloudscraper.create_scraper(
 
 def generateIV(N):
   
-    ## Can use os.urandom(N) too 
+    ## Generate IV
     
     chars = string.ascii_uppercase + string.digits + string.ascii_lowercase
     arrayList = []
