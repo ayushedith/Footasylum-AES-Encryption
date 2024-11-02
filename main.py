@@ -6,7 +6,7 @@ import string
 import json
 import cloudscraper
 
-APP_KEY = "7B5D7BC24B5C4E3A80FBBC2A1156E437" #this will only work for ayushedith :D
+APP_KEY = "7B5D7BC24B5C4E3A80FBBC2A1156E437" # your app key
 
 session = cloudscraper.create_scraper(
     browser={'browser': 'firefox', 'platform': 'windows', 'mobile': False}, 
